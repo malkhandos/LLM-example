@@ -1,2 +1,2 @@
 # LLM-example
-image description using QWEN
+ask QWEN about images using text prompt
